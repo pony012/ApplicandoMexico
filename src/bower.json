@@ -1,0 +1,17 @@
+{
+  "name": "src",
+  "homepage": "https://github.com/pony012/ApplicandoMexico",
+  "authors": [
+    "Alan <pony_alanandres@hotmail.com>"
+  ],
+  "description": "Prototipo de Aplicación para participar en ApplicandoMexico",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
